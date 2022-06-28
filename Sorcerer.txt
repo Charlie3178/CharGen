@@ -1,0 +1,40 @@
+Name: Sorcerer
+Gender: Male
+Race: Dragonborn
+Class: Sorcerer
+Strength: 19 4
+Dexterity: 17 3
+Constitution: 17 4
+Intelligence: 18 4
+Wisdom: 10 0
+Charisma: 18 4
+########################################################################################
+Racial Traits
+
+Racial Trait1: Draconic Ancestry
+Racial Trait2: Breath Weapon
+Racial Trait3: Damage Resistance
+Racial Trait4: Draconic, Common
+########################################################################################
+
+HP: 10
+Proficieny: +2
+Armor: None
+Weapons: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows
+Shields: True
+Saves: Constitution amd Charisma
+Feature 1: Spellcasting
+Feature 2: Sorcerous Origin
+Tools: None
+Skill1: Arcana
+Skill2: Insight
+Cantrip1: Fire Bolt
+Cantrip2: Light
+Cantrip3: Mage Hand
+Cantrip4: Mending
+Spell 1: Mage Armor
+Spell 2: Magic Missle
+Sorcerous Origin: Draconic Bloodline
+Sorcerous Ancestry: Silver: Cold: 
+Sepll 1: Mage Armor
+Sepll 2: Magic Missle

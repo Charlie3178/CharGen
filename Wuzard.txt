@@ -1,0 +1,38 @@
+Name: Wuzard
+Gender: Female
+Race: Half-Orc
+Class: Wizard
+Strength: 19 4
+Dexterity: 15 2
+Constitution: 18 4
+Intelligence: 17 3
+Wisdom: 10 0
+Charisma: 14 2
+########################################################################################
+Racial Traits
+
+Racial Trait1: Darkvision
+Racial Trait2: Menacing
+Racial Trait3: Relentless Endurance
+Racial Trait4: Savage Attacks
+Racial Trait5: Common, Orcish
+########################################################################################
+
+HP: 10
+Proficieny: +2
+Armor: None
+Weapons: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows
+Shields: False
+Saves: Intelligence and Wisdom
+Feature 0: Spell Casting
+Feature 1: Arcane Recovery
+Tools: None
+Cantrip1: Fire Bolt
+Cantrip2: Mage Hand
+Cantrip3: Mending
+Spell 1: Alarm
+Spell 2: Detect Magic
+Spell 3: Find Familiar
+Spell 4: Mage Armor
+Spell 5: Magic Missle
+Spell 6: Tenser's Floating Disk

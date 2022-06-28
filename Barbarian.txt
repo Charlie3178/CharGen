@@ -1,0 +1,19 @@
+Name: Barbarian
+Gender: Male
+Race: Hill Dwarf
+Class: Barbarian
+Strength: 11 0
+Dexterity: 18 4
+Constitution: 2 -4
+Intelligence: 12 1
+Wisdom: 16 3
+Charisma: 17 3
+HP: 0
+Proficieny: +2
+Armor: Light and Medium
+Weapons: Simple and Martial
+Shields: True
+Saves: Strength and Constitution
+Feature 0: Rage 2/day
+Feature 1: Unarmored Def (10 + Dex modifier + Con modifier)
+Tools: None

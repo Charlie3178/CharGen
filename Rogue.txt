@@ -1,0 +1,20 @@
+Name: Rogue
+Gender: Female
+Race: Human
+Class: Rogue
+Strength: 13 1
+Dexterity: 19 4
+Constitution: 1 -5
+Intelligence: 19 4
+Wisdom: 14 2
+Charisma: 17 3
+HP: 0
+Proficieny: +2
+Armor: Light Armor
+Weapons: Simple Weapons,Hand Crossbows,Longswords, Rapiers,Shortswords
+Shields: True
+Saves: Dexterity and Intelligence
+Feature 0: Expertise
+Feature 1: Sneak Attack
+Feature 2: Thieves' Cant
+Tools: Thieves Tools

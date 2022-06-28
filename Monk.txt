@@ -1,0 +1,19 @@
+Name: Monk
+Gender: Female
+Race: Lightfoot Halfling
+Class: Monk
+Strength: 12 1
+Dexterity: 18 4
+Constitution: 0 -5
+Intelligence: 10 0
+Wisdom: 11 0
+Charisma: 14 2
+HP: 0
+Proficieny: +2
+Armor: None
+Weapons: Simple Weapons and Shortswords
+Shields: False
+Saves: Strength and Dexterity
+Feature 0: Unarmored Defense
+Feature 1: Martial Arts 1d4
+Tools: Pick one Artisan's Tool Kit or Musical Weapon

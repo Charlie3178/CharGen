@@ -1,0 +1,21 @@
+Name: Bard
+Gender: Female
+Race: Drow
+Class: Bard
+Strength: 13 1
+Dexterity: 12 1
+Constitution: 0 -5
+Intelligence: 15 2
+Wisdom: 14 2
+Charisma: 16 3
+HP: 0
+Proficieny: +2
+Armor: Light
+Weapons: Simple Weapons,Hand Crossbows,Longswords,Rapiers,Shortswords
+Shields: False
+Saves: Dexterity and Charisma
+Feature 0: Bardic Inspiration (d6)
+Feature 1: Spellcasting
+Tools: Three musical instruments of your choice
+Cantrip1: 5
+Cantrip2: 6

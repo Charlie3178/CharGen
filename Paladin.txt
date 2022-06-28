@@ -1,0 +1,19 @@
+Name: Paladin
+Gender: Male
+Race: Human
+Class: Paladin
+Strength: 16 3
+Dexterity: 11 0
+Constitution: 1 -5
+Intelligence: 16 3
+Wisdom: 11 0
+Charisma: 13 1
+HP: 0
+Proficieny: +2
+Armor: All Armors
+Weapons: Simple and Martial
+Shields: True
+Saves: Wisdom and Charisma
+Feature 0: Divine Sense
+Feature 1: Lay on Hands
+Tools: None

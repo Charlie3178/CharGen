@@ -1,0 +1,19 @@
+Name: Fighter
+Gender: Fighter
+Race: Mountain Dwarf
+Class: Fighter
+Strength: 16 3
+Dexterity: 13 1
+Constitution: 2 -4
+Intelligence: 14 2
+Wisdom: 16 3
+Charisma: 18 4
+HP: 0
+Proficieny: +2
+Armor: All Armor
+Weapons: Simple and Martial
+Shields: True
+Saves: Strength and Constitution
+Feature 0: Fighting Style
+Feature 1: Second Wind
+Tools: None

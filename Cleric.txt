@@ -1,0 +1,32 @@
+Name: Cleric
+Gender: Female
+Race: Human
+Class: Cleric
+Strength: 13 1
+Dexterity: 18 4
+Constitution: 1 -5
+Intelligence: 19 4
+Wisdom: 18 4
+Charisma: 11 0
+HP: 0
+Proficieny: +2
+Armor: Light and Medium
+Weapons: Simple Weapons
+Shields: True
+Saves: Wisdm and Charisma
+Feature 0: Spellcasting
+Feature 1: Divine Domain
+Tools: None
+Cantrip1: 3
+Cantrip2: 4
+Cantrip3: 6
+Divine Domain1: 5
+Domain Spell1: 5
+Divine Domain2: 
+Domain Spell1: 
+Divine Domain3: 
+Domain Spell1: 
+Sepll 1: Bless
+Sepll 2: Cure Wounds
+Sepll 3: Guiding Bolt
+Sepll 4: Healing Word

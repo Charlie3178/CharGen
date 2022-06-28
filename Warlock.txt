@@ -1,0 +1,24 @@
+Name: Warlock
+Gender: Female
+Race: Human
+Class: Warlock
+Strength: 17 3
+Dexterity: 11 0
+Constitution: 1 -5
+Intelligence: 17 3
+Wisdom: 15 2
+Charisma: 18 4
+HP: 12
+Proficieny: +2
+Armor: Light Armor
+Weapons: Simple Weapons
+Shields: False
+Saves: Wisdom and Charisma
+Feature 0: Otherworldly Patron
+Feature 1: Pact Magic
+Tools: None
+Cantrip1: Eldrich Blast
+Cantrip2: Mage Hand
+Spell 1: Armor of Agathys
+Spell 2: Witch Bolt
+Parton: Wild Fey

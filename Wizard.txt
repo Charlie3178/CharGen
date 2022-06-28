@@ -1,0 +1,44 @@
+Name: Wizard
+Gender: Female
+Race: High Elf
+Class: Wizard
+Strength: 18 4
+Dexterity: 19 4
+Constitution: 15 2
+Intelligence: 19 4
+Wisdom: 12 1
+Charisma: 14 2
+########################################################################################
+Racial Traits
+
+Racial Trait1: Longsword
+Racial Trait2: Shorsword
+Racial Trait3: Longbow
+Racial Trait4: Shortbow
+Racial Trait5: Darkvision
+Racial Trait6: Keen Senses
+Racial Trait7: Advantage against being charmed
+Racial Trait8: Immune to magical sleep
+Racial Trait9: Trance
+Racial Trait10: 1 Wizard Cantrip
+Racial Trait11: 1 bonus language
+########################################################################################
+
+HP: 8
+Proficieny: +2
+Armor: None
+Weapons: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows
+Shields: False
+Saves: Intelligence and Wisdom
+Feature 0: Spell Casting
+Feature 1: Arcane Recovery
+Tools: None
+Cantrip1: Fire Bolt
+Cantrip2: Mage Hand
+Cantrip3: Mending
+Spell 1: Alarm
+Spell 2: Detect Magic
+Spell 3: Find Familiar
+Spell 4: Identify
+Spell 5: Mage Armor
+Spell 6: Magic Missle

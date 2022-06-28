@@ -1,0 +1,29 @@
+Name: Di'Ogi
+Gender: Male
+Race: Lightfoot Halfling
+Class: Monk
+Strength: 12 1
+Dexterity: 19 4
+Constitution: 18 4
+Intelligence: 11 0
+Wisdom: 12 1
+Charisma: 16 3
+########################################################################################
+Racial Traits
+
+Racial Trait1: Speed 25ft
+Racial Trait2: Lucky
+Racial Trait3: Brave
+Racial Trait4: Halfling Nimbleness
+Racial Trait5: Naturally Stealthy
+########################################################################################
+
+HP: 12
+Proficieny: +2
+Armor: None
+Weapons: Simple Weapons and Shortswords
+Shields: False
+Saves: Strength and Dexterity
+Feature 1: Unarmored Defense
+Feature 2: Martial Arts 1d4
+Tools: Pick one Artisan's Tool Kit or Musical Weapon

@@ -1,0 +1,19 @@
+Name: Ranger
+Gender: Female
+Race: Lightfoot Halfling
+Class: Ranger
+Strength: 12 1
+Dexterity: 20 5
+Constitution: 0 -5
+Intelligence: 17 3
+Wisdom: 13 1
+Charisma: 19 4
+HP: 0
+Proficieny: +2
+Armor: Light and Medium
+Weapons: Simple and Martial
+Shields: True
+Saves: Strength and Dexterity
+Feature 0: Favored Enemy
+Feature 1: Natural Explorer
+Tools: None

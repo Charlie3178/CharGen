@@ -1,0 +1,25 @@
+Name: Druid
+Gender: Female
+Race: Human
+Class: Druid
+Strength: 14 2
+Dexterity: 15 2
+Constitution: 1 -5
+Intelligence: 17 3
+Wisdom: 17 3
+Charisma: 15 2
+HP: 0
+Proficieny: +2
+Armor: Light and Medium -Druids will not wear armor or shields made of metal
+Weapons: Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Slings, Spears
+Shields: True
+Saves: Intelligence and Wisdom
+Feature 0: Druidic
+Feature 1: Spellcasting
+Tools: Herbalism Kit
+Cantrip1: 3
+Cantrip2: 8
+Sepll 1: Create or Destroy Water
+Sepll 2: Goodberry
+Sepll 3: Healing Word
+Sepll 4: Thunderwave
