@@ -41,8 +41,9 @@ while again != "n":
     charisma = random.randint(10,18)
     chamod = math.floor((charisma - 10)/2)
     print("\nStrength: ",strength,"\n","Dexterity: ",dexterity,"\n","Constitution: ",constitution,"\n","Intelligence: ",intelligence,"\n","Wisdom: ",wisdom,"\n","Charisma: ",charisma)
-    again = input("Please enter n if you would like this roll: ")
-    if again != "n":
+    again = input("Woul you like to re-roll? (y or n) : ")
+    if again.lower() != "n":
+        again = "y"
         os.system("cls")
 
 #######################################
@@ -1671,7 +1672,7 @@ datafile.write("\nCharisma: ")
 datafile.write(str(charisma))
 datafile.write(" ")
 datafile.write(str(chamod))
-datafile.write("\n########################################################################################\n")
+datafile.write("\n\n########################################################################################\n\n")
 datafile.write("Racial Traits\n")
 i = 0
 while i < len(traits):
@@ -1680,7 +1681,7 @@ while i < len(traits):
     datafile.write(traitstxt2)
     datafile.write(traits[i])
     i += 1
-datafile.write("\n########################################################################################\n")
+datafile.write("\n\n########################################################################################\n")
 datafile.write("\nHP: ")
 datafile.write(str(hp))
 datafile.write("\nProficieny: +")
