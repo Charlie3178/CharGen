@@ -1,32 +1,55 @@
 Name: Rento Splitarrow
+Age: 16
 Gender: M
 Race: Dragonborn
 Class: Rogue
-Strength: 20 5
-Dexterity: 10 0
-Constitution: 18 4
-Intelligence: 11 0
-Wisdom: 18 4
-Charisma: 19 4
+Alignment: NG
+Str: 17 +3
+Dex: 17 +3
+Con: 17 +3 
+Int: 15 +2
+Wis: 15 +2
+Cha: 13 +1
 
+HP: 11
+Proficieny: +2
 ########################################################################################
 
 Racial Traits
 
-Racial Trait1: Draconic Ancestry
-Racial Trait2: Breath Weapon
-Racial Trait3: Damage Resistance
-Racial Trait4: Draconic, Common
+Racial Trait1: Draconic Ancestry (Blue)
+Racial Trait2: Breath Weapon (Line of Lightning; 5x30; 2d6)
+Racial Trait3: Damage Resistance (Lightning)
+Racial Trait4: SRW Draconic
+Racial Trait5: SRW Common
 
 ########################################################################################
 
-HP: 12
-Proficieny: +2
 Armor: Light Armor
 Weapons: Simple Weapons,Hand Crossbows,Longswords, Rapiers,Shortswords
-Shields: True
+Shields: Yes
 Saves: Dexterity and Intelligence
 Feature 1: Expertise
-Feature 2: Sneak Attack
+    A:
+    B:
+    C:
+    D:
+Feature 2: Sneak Attack 1d6
 Feature 3: Thieves' Cant
 Tools: Thieves Tools
+
+########################################################################################
+
+Equipment
+
+Head:
+Neck:
+Back:
+Armor:
+Hands:
+Waist:
+Feet:
+Finger1:
+Finger2:
+Accessory1:
+Accessory2:

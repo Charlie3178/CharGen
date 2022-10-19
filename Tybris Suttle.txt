@@ -41,3 +41,19 @@ Spell 3: Tenser's Floating Disk
 Spell 4: Thunderwave
 Spell 5: Witch Bolt
 Spell 6: Find Familiar
+
+########################################################################################
+
+Equipment
+
+Head:
+Neck:
+Back:
+Armor:
+Hands:
+Waist:
+Feet:
+Finger1:
+Finger2:
+Accessory1:
+Accessory2:
