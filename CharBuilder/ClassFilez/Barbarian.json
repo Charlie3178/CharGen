@@ -1,0 +1,139 @@
+{
+  "Barbarian": [
+    {
+      "1": "Barbarian",
+      "Hitdie": 12,
+      "Armor": ["Light Armor", "Medium Armor", "Shields"],
+      "Weapons": ["Simple Weapons", "Martial Weapons"],
+      "Saves": ["Strength", "Constitution"],
+      "Skills": [
+        "Animal Handling",
+        "Athletics",
+        "Intimidation",
+        "Nature",
+        "Perception",
+        "Survival"
+      ],
+      "LV1": {
+        "Proficiency": 2,
+        "Features": ["Rage", "Unarmored Defense"],
+        "Rages": 2,
+        "Rage Damage": 2
+      },
+      "LV2": {
+        "Proficiency": 2,
+        "Features": ["Reckless Attack", "Danger Sense"],
+        "Rages": 2,
+        "Rage Damage": 2
+      },
+      "LV3": {
+        "Proficiency": 2,
+        "Features": ["Primal Path"],
+        "Rages": 3,
+        "Rage Damage": 2
+      },
+      "LV4": {
+        "Proficiency": 2,
+        "Features": ["Abilit Score Increase"],
+        "Rages": 3,
+        "Rage Damage": 2
+      },
+      "LV5": {
+        "Proficiency": 3,
+        "Features": ["Extra Attack", "Fast Movement"],
+        "Rages": 3,
+        "Rage Damage": 2
+      },
+      "LV6": {
+        "Proficiency": 3,
+        "Features": ["Path Feature"],
+        "Rages": 4,
+        "Rage Damage": 2
+      },
+      "LV7": {
+        "Proficiency": 3,
+        "Features": ["Feral Instinct"],
+        "Rages": 4,
+        "Rage Damage": 2
+      },
+      "LV8": {
+        "Proficiency": 3,
+        "Features": ["Ability Score Increase"],
+        "Rages": 4,
+        "Rage Damage": 2
+      },
+      "LV9": {
+        "Proficiency": 4,
+        "Features": ["Brutal Critical (1 die)"],
+        "Rages": 4,
+        "Rage Damage": 3
+      },
+      "LV10": {
+        "Proficiency": 4,
+        "Features": ["Path Feature"],
+        "Rages": 4,
+        "Rage Damage": 3
+      },
+      "LV11": {
+        "Proficiency": 4,
+        "Features": ["Relentless Rage"],
+        "Rages": 4,
+        "Rage Damage": 3
+      },
+      "LV12": {
+        "Proficiency": 4,
+        "Features": ["Ability Score Increase"],
+        "Rages": 5,
+        "Rage Damage": 3
+      },
+      "LV13": {
+        "Proficiency": 5,
+        "Features": ["Brutal Critical (2 dice)"],
+        "Rages": 5,
+        "Rage Damage": 3
+      },
+      "LV14": {
+        "Proficiency": 5,
+        "Features": ["Path Feature"],
+        "Rages": 5,
+        "Rage Damage": 3
+      },
+      "LV15": {
+        "Proficiency": 5,
+        "Features": ["Persistent Rag"],
+        "Rages": 5,
+        "Rage Damage": 3
+      },
+      "LV16": {
+        "Proficiency": 5,
+        "Features": ["Ability Score Increase"],
+        "Rages": 5,
+        "Rage Damage": 4
+      },
+      "LV17": {
+        "Proficiency": 6,
+        "Features": ["Brutal Critical (3 dice)"],
+        "Rages": 6,
+        "Rage Damage": 4
+      },
+      "LV18": {
+        "Proficiency": 6,
+        "Features": ["Indominable Might"],
+        "Rages": 6,
+        "Rage Damage": 4
+      },
+      "LV19": {
+        "Proficiency": 6,
+        "Features": ["Ability Score Increase"],
+        "Rages": 6,
+        "Rage Damage": 4
+      },
+      "LV20": {
+        "Proficiency": 6,
+        "Features": ["Primal Champion"],
+        "Rages": "Unlimited",
+        "Rage Damage": 4
+      }
+    }
+  ]
+}

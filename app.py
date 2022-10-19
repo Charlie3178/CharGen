@@ -1,7 +1,6 @@
 import math
 from operator import concat
 import os
-from pyexpat import features
 import random
 
 pname = ""
@@ -1246,13 +1245,13 @@ def playerStats():
                         pact = "King Oberon"
                         return(pact)
                     elif choice == 5:
-                        pact = "Jack Frost"
+                        pact = "Green Lord"
                         return(pact)
                     elif choice == 6:
-                        pact = "Summer Queen"
+                        pact = "Hyrsam"
                         return(pact)
                     elif choice == 7:
-                        pact = "Winter Queen"
+                        pact = "Robin Goodfellow"
                         return(pact)
                     elif choice == 8:
                         pact = input("Please name an Archfey as your patron: ")
@@ -1636,7 +1635,7 @@ spells = player[3][12]
 origin = player[3][13]
 pact = player[3][14]
 traits = player[2][7]
-print("There are ",len(traits)," traits")
+# print("There are ",len(traits)," traits")
 filename = concat(pname,".txt")
 #######################################
 datafile = open(filename,"tw")

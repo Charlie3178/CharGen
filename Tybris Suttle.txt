@@ -1,0 +1,43 @@
+Name: Tybris Suttle
+Gender: M
+Race: Protector Aasimar
+Class: Artificer
+Strength: 15 2
+Dexterity: 17 3
+Constitution: 18 4
+Intelligence: 17 3
+Wisdom: 18 4
+Charisma: 14 2
+
+########################################################################################
+
+Racial Traits
+
+Racial Trait1: Darkvision
+Racial Trait2: Celestial Resistance
+Racial Trait3: Healing Hands
+Racial Trait4: Light Bearer
+Racial Trait5: Radiant Soul
+Racial Trait6: SRW Common
+Racial Trait7: SRW Celestial
+
+########################################################################################
+
+HP: 12
+Proficieny: +2
+Armor: None
+Weapons: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows
+Shields: False
+Saves: Intelligence and Wisdom
+Feature 1: Spell Casting
+Feature 2: Arcane Recovery
+Tools: None
+Cantrip1: Fire Bolt
+Cantrip2: Mage Hand
+Cantrip3: Mending
+Spell 1: Magic Missle
+Spell 2: Mage Armor
+Spell 3: Tenser's Floating Disk
+Spell 4: Thunderwave
+Spell 5: Witch Bolt
+Spell 6: Find Familiar

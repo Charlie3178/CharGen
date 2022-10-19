@@ -1,0 +1,379 @@
+{
+  "Druid": {
+    "4": "Bard",
+    "Hitdie": 8,
+    "Armor": ["Light Armor"],
+    "Weapons": [
+      "Simple Weapons",
+      "Hand Crossbows",
+      "Longswords",
+      "Rapiers",
+      "Shortswords"
+    ],
+    "Saves": ["Dexterity", "Charisma"],
+    "Skills": [
+      "Animal Handling",
+      "Athletics",
+      "Intimidation",
+      "Nature",
+      "Perception",
+      "Survival"
+    ],
+    "Cantrips": [
+      "Blade Ward",
+      "Dancing Lights",
+      "Friends",
+      "Light",
+      "Mage Hand",
+      "Mending",
+      "Minor Illusion",
+      "Prestidigitation",
+      "True Strike",
+      "Vicious Mockery"
+    ],
+    "LV1": {
+      "Proficiency": 2,
+      "Features": ["Rage", "Unarmored Defense"],
+      "Cantrips Known": 2,
+      "Spells Known": 4,
+      "Spell Slots": {
+        "S1": 2,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV2": {
+      "Proficiency": 2,
+      "Features": ["jack of All Trades", "Song of Rest (d 6) "],
+      "Cantrips Known": 3,
+      "Spells Known": 5,
+      "Spell Slots": {
+        "S1": 3,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV3": {
+      "Proficiency": 2,
+      "Features": ["Bard College", "Expertise"],
+      "Cantrips Known": 4,
+      "Spells Known": 5,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 2,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV4": {
+      "Proficiency": 2,
+      "Features": ["Ability Score Increase"],
+      "Cantrips Known": 2,
+      "Spells Known": 6,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV5": {
+      "Proficiency": 2,
+      "Features": ["Bardic Inspiration (d8)", "Font of Inspiration"],
+      "Cantrips Known": 2,
+      "Spells Known": 7,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV6": {
+      "Proficiency": 2,
+      "Features": ["Countercharm", "Bard College feature"],
+      "Cantrips Known": 2,
+      "Spells Known": 8,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV7": {
+      "Proficiency": 2,
+      "Features": ["-"],
+      "Cantrips Known": 2,
+      "Spells Known": 9,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 1,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV8": {
+      "Proficiency": 2,
+      "Features": ["Ability Score Increase"],
+      "Cantrips Known": 2,
+      "Spells Known": 10,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV9": {
+      "Proficiency": 2,
+      "Features": ["Song of Rest (d8)"],
+      "Cantrips Known": 2,
+      "Spells Known": 11,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 1,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV10": {
+      "Proficiency": 2,
+      "Features": [
+        "Bardic Inspiration (d10)",
+        "Expertise",
+        "Magical Secrets"
+      ],
+      "Cantrips Known": 2,
+      "Spells Known": 12,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 2,
+        "S6": 0,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV11": {
+      "Proficiency": 2,
+      "Features": ["-"],
+      "Cantrips Known": 2,
+      "Spells Known": 13,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 1,
+        "S6": 1,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV12": {
+      "Proficiency": 2,
+      "Features": ["Ability Score Increase"],
+      "Cantrips Known": 2,
+      "Spells Known": 14,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 1,
+        "S6": 1,
+        "S7": 0,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV13": {
+      "Proficiency": 2,
+      "Features": ["Song of Rest (d10)"],
+      "Cantrips Known": 2,
+      "Spells Known": 15,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 1,
+        "S6": 1,
+        "S7": 1,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV14": {
+      "Proficiency": 2,
+      "Features": ["Magical Secrets", "Bard College feature"],
+      "Cantrips Known": 2,
+      "Spells Known": 16,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 1,
+        "S6": 1,
+        "S7": 1,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV15": {
+      "Proficiency": 2,
+      "Features": ["Bardic Inspiration (d12)"],
+      "Cantrips Known": 2,
+      "Spells Known": 17,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 2,
+        "S6": 1,
+        "S7": 1,
+        "S8": 0,
+        "S9": 0
+      }
+    },
+    "LV16": {
+      "Proficiency": 2,
+      "Features": ["Ability Score Increase"],
+      "Cantrips Known": 2,
+      "Spells Known": 18,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 2,
+        "S6": 1,
+        "S7": 1,
+        "S8": 1,
+        "S9": 0
+      }
+    },
+    "LV17": {
+      "Proficiency": 2,
+      "Features": ["RSong of Rest (d12) "],
+      "Cantrips Known": 2,
+      "Spells Known": 19,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 1,
+        "S7": 1,
+        "S8": 1,
+        "S9": 1
+      }
+    },
+    "LV18": {
+      "Proficiency": 2,
+      "Features": ["Magical Secrets"],
+      "Cantrips Known": 2,
+      "Spells Known": 20,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 2,
+        "S7": 1,
+        "S8": 1,
+        "S9": 1
+      }
+    },
+    "LV19": {
+      "Proficiency": 2,
+      "Features": ["Ability Score Increase"],
+      "Cantrips Known": 2,
+      "Spells Known": 21,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 2,
+        "S7": 1,
+        "S8": 1,
+        "S9": 1
+      }
+    },
+    "LV20": {
+      "Proficiency": 2,
+      "Features": ["Superior Inspiration"],
+      "Cantrips Known": 2,
+      "Spells Known": 22,
+      "Spell Slots": {
+        "S1": 4,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 2,
+        "S7": 2,
+        "S8": 1,
+        "S9": 1
+      }
+    }
+  }
+}

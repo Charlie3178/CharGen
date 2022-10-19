@@ -1,35 +1,55 @@
-# CharGen is a "work-in-progress" pet project where I am creating a DnD 5e LV Character generator.
+# CharGen is a "work-in-progress" pet project where I am creating a DnD 5e LV1 Character generator.
 
 Not all classes are completely implimented, and the races only have the ability score adjustments implimented.
 This also gives the generated character as a "Character".txt
 
-
-As of my last push, I have Barbarian, Bard, and Cleric kinda completed.
-I say Kinda because I am flipping from VSCode to digital copy of the Players' Handbook.
-Which means that I could very well have missed something.
-
 Below is a sample of the current output:
 
 ##################################################################################
-Name: Gronka
+##################################################################################
+Name: Wizard
 Gender: Female
-Race: Drow
-Class: Bard
-Strength: 14 2
-Dexterity: 14 2
-Constitution: 18 4
-Intelligence: 13 1
-Wisdom: 17 3
-Charisma: 16 3
-HP: 12
+Race: High Elf
+Class: Wizard
+Strength: 18 4
+Dexterity: 19 4
+Constitution: 15 2
+Intelligence: 19 4
+Wisdom: 12 1
+Charisma: 14 2
+########################################################################################
+Racial Traits
+
+Racial Trait1: Longsword
+Racial Trait2: Shorsword
+Racial Trait3: Longbow
+Racial Trait4: Shortbow
+Racial Trait5: Darkvision
+Racial Trait6: Keen Senses
+Racial Trait7: Advantage against being charmed
+Racial Trait8: Immune to magical sleep
+Racial Trait9: Trance
+Racial Trait10: 1 Wizard Cantrip
+Racial Trait11: 1 bonus language
+########################################################################################
+
+HP: 8
 Proficieny: +2
-Armor: Light
-Weapons: Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
+Armor: None
+Weapons: Daggers, Darts, Slings, Quarterstaffs, Light Crossbows
 Shields: False
-Saves: Dexterity and Charisma
-Feature 1: Bardic Inspiration (d6)
-Feature 2: Spellcasting
-Skill1: Nature
-Skill2: Survival
-Skill3: History
+Saves: Intelligence and Wisdom
+Feature 0: Spell Casting
+Feature 1: Arcane Recovery
+Tools: None
+Cantrip1: Fire Bolt
+Cantrip2: Mage Hand
+Cantrip3: Mending
+Spell 1: Alarm
+Spell 2: Detect Magic
+Spell 3: Find Familiar
+Spell 4: Identify
+Spell 5: Mage Armor
+Spell 6: Magic Missle
+####################################################################################
 ####################################################################################
